@@ -1,0 +1,35 @@
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\matt-repository\security-system\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\git\matt-repository\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\git\matt-repository\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\matt-repository\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\matt-repository\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\git\Nova pasta\security-system\squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
